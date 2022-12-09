@@ -1,5 +1,5 @@
 # Foodring
-Front-page:
+## Front-page:
 ![image](https://user-images.githubusercontent.com/61679330/206717703-e1cfe0ea-9bf8-44f8-a342-a287b5ec29df.png)
 Searched product:
 ![image](https://user-images.githubusercontent.com/61679330/206717835-458cf2ce-b7bf-45d9-90e0-63c9234b2227.png)
