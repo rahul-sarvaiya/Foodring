@@ -1,4 +1,4 @@
-# Foodring
+<center># Foodring</center>
 ## Front-page:
 ![image](https://user-images.githubusercontent.com/61679330/206717703-e1cfe0ea-9bf8-44f8-a342-a287b5ec29df.png)
 ## Searched product:
